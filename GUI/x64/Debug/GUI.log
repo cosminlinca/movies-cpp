@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GUI.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  COSGUI.cpp
+  Export.cpp
+  Film.cpp
+  GUI.cpp
+  Lista.cpp
+  main.cpp
+  MapRepo.cpp
+  MovieForm.cpp
+  Nod.cpp
+  QMListWidgetItem.cpp
+  RepoFile.cpp
+  Repository.cpp
+  Service.cpp
+  Teste.cpp
+  UI.cpp
+  Validator.cpp
+  moc_GUI.cpp
+  moc_COSReadOnlyGUI.cpp
+  moc_COSGUI.cpp
+  qrc_GUI.cpp
+c:\users\coss\source\repos\gui\gui\gui.cpp(277): warning C4715: '<lambda_94e05f60ff79e1e19cea3232503cff1f>::operator()': not all control paths return a value
+c:\users\coss\source\repos\gui\gui\gui.cpp(303): warning C4715: '<lambda_c6ea2c2af1d1b82092fe52da481a41b1>::operator()': not all control paths return a value
+  GUI.vcxproj -> C:\Users\Coss\source\repos\GUI\x64\Debug\Movies.exe
